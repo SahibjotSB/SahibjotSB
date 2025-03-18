@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hello, I'm Sahibjot 😎
+### Full-Stack Developer | FinTech Enthusiast | Computer Science Student  
 
-<!--
-**SahibjotSB/SahibjotSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World! 👨‍💻 I'm a third-year Computer Science student at **Wilfrid Laurier University**, passionate about **full-stack development, FinTech**, and solving real-world problems through code. Constantly pushing my limits to learn and build innovative projects. 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+📧 **Email:** [Sahibjotbhoday@gmail.com](mailto:Sahibjotbhoday@gmail.com)  
+🌐 **Portfolio:** [Sahibjotb.com](https://sahibjotb.com/)  
+💼 **LinkedIn:** [linkedin.com/in/Sahibjot](https://www.linkedin.com/in/sahibjot-singh-bhoday/)  
+
+---
+
+### 🛠️ Languages & Tools  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+![Sahibjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahibjotSB&show_icons=true&theme=tokyonight)        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahibjotSB&layout=compact&theme=tokyonight)  
+
+---
+
+🌟 *Let's connect and build something amazing together!* 🚀  
