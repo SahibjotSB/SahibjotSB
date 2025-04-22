@@ -24,4 +24,5 @@ Hello World! 👨‍💻 I'm a third-year Computer Science student at **Wilfrid 
 
 ---
 
-🌟 *Let's connect and build something amazing together!* 🚀  
+🌟 *Let's connect and build something amazing together!* 🚀 
+    BTW hidden commits are Quanta Co. and Internship work 🤫
